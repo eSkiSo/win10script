@@ -28,3 +28,6 @@ Comment any thing you don't want out... Example:
 	"SetUACHigh",
 	"EnableSMB1",
 ```
+
+##Install
+powershell -nop -c "iex(New-Object Net.WebClient).DownloadString('https://git.io/JJX4y')"
