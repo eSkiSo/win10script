@@ -161,7 +161,7 @@ $tweaks = @(
 	"DisableAdobeFlash",            # "EnableAdobeFlash",
 	#"InstallMediaPlayer", 		# "UninstallMediaPlayer",
 	#"UninstallInternetExplorer",  # "InstallInternetExplorer",
-	"UninstallWorkFolders",       # "InstallWorkFolders",
+	"UninstallWorkFolders"       # "InstallWorkFolders",
 	#"InstallLinuxSubsystem",      # "UninstallLinuxSubsystem",
 	# "InstallHyperV",              # "UninstallHyperV",
 	#"SetPhotoViewerAssociation",    # "UnsetPhotoViewerAssociation",
